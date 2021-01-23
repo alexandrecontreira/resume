@@ -1,28 +1,25 @@
-## Bemvindo!
-
-### Alexandre de Oliveira Contreira
+# Alexandre de Oliveira Contreira
     
 ## Apresentação 
 
-Sou um profissional com seis anos de experiência como docente. Diante disso, o meu objetivo é aprimorar meus conhecimentos em TI. Estou aberto a novos desafios para o meu crescimento profissional e desenvolvimento pessoal, visando ser um programador Fullstack. 
-No entanto, ainda busco mais oportunidades de aprendizado.
+Sou um profissional com seis anos de experiência como docente, sendo três ensinando algoritmos e programação. Diante disso, o meu objetivo é aprimorar meus conhecimentos em TI. Estou aberto a novos desafios para o meu crescimento profissional e desenvolvimento pessoal, visando ser um programador Fullstack. 
+
 
 ### Objetivos
 
-    Me tornar um a curto prazo Desenvolvedor Júnior a longo prazo Fullstack.
+    Me tornar um Desenvolvedor Júnior a curto prazo e a longo prazo ser um Fullstack.
 
 ## Síntese de Habilidades 
  
-    - Montagem e Configuração Manutenção de Microcomputadores;
-    - Domínio Pacote Office, (Word, Excel, Power Point);
-    - LibreOffice (Writer, Calc);
-    - Gestão de pessoas, administração de conflitos e motivação de equipes;
-    - Planejar e Ministrar aulas;
+    - Montagem, configuração e manutenção de computadores;
+    - Domínio do Pacote Office: Word, Excel, Power Point;
+    - LibreOffice: Writer, Calc;
+    - Planejar e ministrar aulas;
     - Redes de Computadores: Cabeamento Estruturado, Configuração de Modems;
     - Linguagem de Programação: 
-    - C 
+        - C 
     Estudando:
-    - Linguagens HTML5,Javascript, CSS, MySQL, PHP. 
+        - HTML5,Javascript, CSS, MySQL e PHP. 
 
 
 
