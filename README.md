@@ -19,8 +19,10 @@ No entanto, ainda busco mais oportunidades de aprendizado.
     - Gestão de pessoas, administração de conflitos e motivação de equipes;
     - Planejar e Ministrar aulas;
     - Redes de Computadores: Cabeamento Estruturado, Configuração de Modems;
-    - Linguagem de Programação Algoritmos, Linguagem C. AS Linguagens HTML,
-    Javascript, CSS, Banco de Dados. Estão em fase de reciclagem devido aos cursos em plataformas on-line e ao Curso de Analise e Desenvolvimento de Sistemas.
+    - Linguagem de Programação: 
+    - C 
+    Estudando:
+    - Linguagens HTML5,Javascript, CSS, MySQL, PHP. 
 
 
 
