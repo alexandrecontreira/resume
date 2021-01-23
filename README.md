@@ -5,7 +5,7 @@
 Sou um profissional com seis anos de experiência como docente, sendo três ensinando algoritmos e programação. Diante disso, o meu objetivo é aprimorar meus conhecimentos em TI. Estou aberto a novos desafios para o meu crescimento profissional e desenvolvimento pessoal, visando ser um programador Fullstack. 
 
 
-### Objetivos
+## Objetivos
 
     Me tornar um Desenvolvedor Júnior a curto prazo e a longo prazo ser um Fullstack.
 
